@@ -1,0 +1,13 @@
+.github/
+.jenkins
+assignments/
+docs/
+flowcharts/
+artifact/
+logs/
+notebooks/
+venv/
+LICENSE
+README.md
+EDA
+
